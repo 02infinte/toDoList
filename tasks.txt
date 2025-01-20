@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "2. Initialize and configure the project" 
+=======
+"2. Set up Git repository" 
+>>>>>>> feature-b
