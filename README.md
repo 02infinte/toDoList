@@ -1,1 +1,1 @@
-"# Todo List Project\nThis is a simple project to practice Git and GitHub." 
+"Todo List Project.This is a simple project to practice Git and GitHub." 
